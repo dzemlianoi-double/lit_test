@@ -83,7 +83,7 @@ end
 
 def request_pizza
   puts 'back - у меню; чернетку замовлення буде скасовано.'
-  puts 'Введіть слаг піцци: '
+  puts 'Введіть слаг піцци, будь-ласка: '
   pizza_name = gets.chomp
 
   return nil if ['next', 'back'].include?(pizza_name)
@@ -100,7 +100,7 @@ def request_pizza
 end
 
 def guests_count
-  puts 'Скільки гостей їстимуть піцу?'
+  puts 'Скільки гостей їстимуть піцу? Скажіть будь-ласка'
   puts 'Вкажіть число від 0 до 8, включно із собою.'
   puts '0 - замовлення на виніс.'
 
@@ -112,7 +112,7 @@ end
 
 def has_cheese_sides?
   puts 'Додати сирні бортики до кожної піци?'
-  puts 'Це +10: до вартості піц. (так/ні)'
+  puts 'Це +10: до вартості піц. (так/ні/не знаю)'
 
   gets.chomp.upcase == 'ТАК'
 end
