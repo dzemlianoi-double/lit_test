@@ -1,0 +1,13 @@
+---
+- :name_promocode: LIT10
+  :absolute_discount: 0
+  :percentage_discount: 10
+- :name_promocode: MAMA20
+  :absolute_discount: 0
+  :percentage_discount: 20
+- :name_promocode: MAMA500
+  :absolute_discount: 50
+  :percentage_discount: 0
+- :name_promocode: BUG0
+  :absolute_discount: 0
+  :percentage_discount: 0

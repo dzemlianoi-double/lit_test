@@ -1,0 +1,25 @@
+---
+- :name_of_pizza: margarita
+  :phrase_pizza: Маргарита «Мама схвалила
+  :price: 180
+  :weigth: 500
+  :pieces_of_pizza: 8
+  :ingredients: Томати, моцарела та базилік.
+- :name_of_pizza: bbq
+  :phrase_pizza: BBQ «Дим із дедлайну»
+  :price: 260
+  :weigth: 650
+  :pieces_of_pizza: 8
+  :ingredients: Курка, бекон, цибуля та соус BBQ.
+- :name_of_pizza: Four_cheese
+  :phrase_pizza: "«Чотири сири й один конфлікт»"
+  :price: 280
+  :weigth: 550
+  :pieces_of_pizza: 8
+  :ingredients: Томати, моцарела та базилік.
+- :name_of_pizza: margarita
+  :phrase_pizza: Пепероні «Гострий коміт»
+  :price: 240
+  :weigth: 600
+  :pieces_of_pizza: 8
+  :ingredients: Пепероні, моцарела та томати
